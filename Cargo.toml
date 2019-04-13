@@ -1,0 +1,9 @@
+[package]
+name = "crabcrabgo"
+version = "0.1.0"
+authors = ["Ginkoe Yoki <ginkoe@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "*"
+select = "*"
