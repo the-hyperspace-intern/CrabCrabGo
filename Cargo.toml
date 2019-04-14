@@ -7,3 +7,6 @@ edition = "2018"
 [dependencies]
 reqwest = "*"
 select = "*"
+urlparse = "*"
+colored = "*"
+open = "*"
